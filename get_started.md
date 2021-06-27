@@ -13,7 +13,6 @@ Things to do to get started
     public
     src
     .gitignore
-    React starter template
     README.md
     package.json
     yarn.lock
@@ -21,7 +20,7 @@ Things to do to get started
   d. you will notice that you will be missing the following:
   node_modules
 
-  This is normal because you have to install all the react dependencies.
+  This is normal because you have to install the react dependencies next.
 
 2.  Install React dependencies with yarn.
 
@@ -33,7 +32,7 @@ Things to do to get started
 
     yarn start
 
-3. Check your git repository
+3. Let's verify - Check your git repository
   a. check your local git copy
 
     git status
@@ -42,7 +41,7 @@ Things to do to get started
    
    on branch main
     
-    Your branch is up to date with 'origin/main'
+   Your branch is up to date with 'origin/main'
   
   b. check your connection to remote repository
 
