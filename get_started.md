@@ -70,7 +70,7 @@ Things to do to get started
   
     git checkout <branch-name>
 
-  *Important: this is where your branch; you will be working on tis branch all the time.  You work on your copy and push to this branch, always.    Later we will merge all our work into the master when ready to do so.
+  *Important: this is going to be your branch; you will be working on this branch all the time.  You will work on your copy and push to this branch, always.  Later we will merge all our work into the master when ready to do so.
 
   I hope this helps.  Let me know if you have any questions.
 
