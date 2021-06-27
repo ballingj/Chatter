@@ -1,6 +1,6 @@
 Things to do to get started
 
-1. clone the started files from the remote repo
+1. clone the starter files that I uploaded from the remote repo:
   a. first create folder in your computer.  My nucamp folder is on the desktop and I created a folder inside that called "Chatter".  
 
   b. open your bash terminal command line and navigate to your folder.  Once in your folder issue 
