@@ -1,13 +1,13 @@
 .post {
   display: flex;
   align-items: flex-start;
-  border-bottom: 1px solid var(--twitter-background);
+  border-bottom: 1px solid var(--chatter-background);
   padding-bottom: 10px;
 }
 
 .post__body {
   flex: 1;
-  padding: 10px;
+  padding: 5px;
 }
 
 .post__body > img {
@@ -32,7 +32,7 @@
 
 .post__badge {
   font-size: 14px !important;
-  color: var(--twitter-color);
+  color: var(--chatter-color);
 }
 
 .post__headerSpecial {
