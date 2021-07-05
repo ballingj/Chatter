@@ -1,11 +1,11 @@
 .feed {
   flex: 0.4;
-  border-right: .25px solid var(--chatter-background);
   min-width: fit-content;
   overflow-y: scroll;
   -ms-overflow-style: none; 
   scrollbar-width: none;
   height: 100vh;
+  border: 0.25px solid var(--chatter-background);
 }
 
 /* Hide scrollbar for Feed */
