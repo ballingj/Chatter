@@ -1,0 +1,62 @@
+aside {
+  width: 450px;
+  background-color: var(--dark-color);
+  height: 100vh;
+  color: var(--text-color);
+}
+
+.nav-container {
+  height: 100vh;
+}
+
+.navigation {
+  height: 100vh;
+  position: relative;
+  margin: 0 25%;
+}
+
+.sidebar .logo i {
+  color: var(--text-color);
+}
+
+ul {
+  margin: 0;
+  list-style: none;
+  text-decoration: none;
+  text-align: left;
+  padding-left: 0 !important;
+}
+
+.nav-item__link {
+  text-decoration: none;
+  color: var(--text-color);
+  padding: 10px 0 !important;
+}
+.nav-item__link:hover {
+  text-decoration: none;
+  color: var(--text-color);
+}
+
+.nav-item__link i {
+  padding-right: 10px;
+}
+.nav-item__link i {
+  padding-right: 10px;
+}
+
+.btn-tweet {
+  background-color: var(--btn-color) !important;
+  border-radius: 25px !important;
+  margin-bottom: 150px;
+}
+
+/* profile */
+
+.userbtn {
+  position: absolute;
+  bottom: 0;
+}
+
+.profile-image img {
+  width: 50px;
+}
