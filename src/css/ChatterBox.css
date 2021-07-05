@@ -30,6 +30,7 @@
 
 .chatterBox__imageInput {
   border: none;
+  margin-left: 20px;
   padding: 10px;
   background-color: var(--dark-color);
   color: var(--text-color);
