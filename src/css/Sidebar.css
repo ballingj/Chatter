@@ -1,5 +1,6 @@
-aside {
-  width: 450px;
+.sidebar {
+  flex: 0.3;
+  /* width: 450px; */
   background-color: var(--dark-color);
   height: 100vh;
   color: var(--text-color);

@@ -1,11 +1,12 @@
 import React from "react";
 import { Nav, NavItem, NavLink, NavbarBrand, Button } from "reactstrap";
 import UserBtn from "./UserBtnComponent";
+import "../css/Sidebar.css";
 
 function Sidebar(props) {
   return (
-    <React.Fragment>
-      <aside>
+    <React.Fragment >
+      <div className="sidebar">
         <div className="container nav-container">
           <div className="row nav-row">
             <div className="col navigation">
@@ -57,13 +58,13 @@ function Sidebar(props) {
                     <i className="fa fa-ellipsis-h" aria-hidden="true" /> More
                   </NavLink>
                 </NavItem>
-                <Button className="btn-tweet">Tweet</Button>
+                <Button className="btn-tweet">Chatter</Button>
                 <UserBtn />
               </Nav>
             </div>
           </div>
         </div>
-      </aside>
+      </div>
     </React.Fragment>
   );
 }
